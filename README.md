@@ -20,7 +20,7 @@ A Spring Boot application that processes receipts and calculates reward points b
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/receipt-processor.git
+git clone https://github.com/JaveedShaik42/receipt-processor.git
 cd receipt-processor
 ```
 
